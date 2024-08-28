@@ -78,12 +78,12 @@ button {
 
 button:hover {
     /* Serve para quando passar o mouse mudar de cor*/
-    opacity: 0.8;
+    opacity: .8;
 }
 
 button:active {
     /* Serve para quando pressionar o mouse*/
-    opacity: .5;
+    opacity: 0.5;
 }
 
 .link-header {
