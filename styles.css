@@ -78,7 +78,7 @@ button {
 
 button:hover {
     /* Serve para quando passar o mouse mudar de cor*/
-    opacity: .8;
+    opacity: 0.9;
 }
 
 button:active {
