@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="https://github.com/alencarpereira/easy-shopping/blob/main/assets/32-print.png?raw=true">
+<img src="">
 <br>
 <br>
 <br>
