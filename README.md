@@ -14,4 +14,7 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/alencarpereira/easy-shopping/blob/main/assets/33-print.png?raw=true"/>
+<h2>Esse trabalho também é responsivel</h2>
+<br>
+<br>
+<img src="https://github.com/alencarpereira/easy-shopping/blob/main/assets/33-cel.png?raw=true"/>
