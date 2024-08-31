@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="">
+<img src="https://github.com/alencarpereira/easy-shopping/blob/main/assets/32-computador.png?raw=true">
 <br>
 <br>
 <br>
